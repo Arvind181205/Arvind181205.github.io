@@ -28,7 +28,7 @@ export default function About() {
           >
             <div className="relative h-80 w-80 overflow-hidden rounded-full border-8 border-white shadow-xl dark:border-gray-800">
               <Image
-                src="https://media.licdn.com/dms/image/v2/D5603AQHyCT2ifkRPQA/profile-displayphoto-shrink_800_800/B56ZeYpJVWGoAc-/0/1750612615039?e=1756339200&v=beta&t=j-w_7Ah97z74CACFm4bCfigzTGKVJzZFECp49vLK990"
+                src="https://media.licdn.com/dms/image/v2/D5603AQGg-Uk_5wHNbA/profile-displayphoto-shrink_800_800/B56ZeYp23BGoAg-/0/1750612800854?e=1756944000&v=beta&t=5b-rgcPNS20H5vkyS2vfwFrQRxTARqZ-AYxU6s4FSSk"
                 alt="Kothem Arvind Sai Teja"
                 fill
                 className="object-cover"
